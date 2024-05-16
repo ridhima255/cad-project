@@ -42,7 +42,7 @@ time.sleep(2)
 
 while True:
     try:
-        nextButton = driver.find_element(By.CSS_SELECTOR, "_ac7v x12nagc xn8zkq8")
+        nextButton = driver.find_element(By.CSS_SELECTOR, "_aaqg _aaqh")
         nextButton.click()
         time.sleep(20)
     except:
